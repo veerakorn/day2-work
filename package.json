@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --base-href \"day2-work\"",
+    "build": "ng build --base-href \"https://veerakorn.github.io/day2-work\"",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
